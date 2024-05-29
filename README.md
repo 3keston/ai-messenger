@@ -1,6 +1,8 @@
 
 # AI Messenger for macOS
 
+<img src="assets/aim.webp" alt="Aim Image" width="300" height="300">
+
 AI Messenger is a macOS application designed to read your `chat.db` table and send messages to the chat when prompted. It also supports sending messages to self-chats (chats with yourself). 
 
 ## Features
